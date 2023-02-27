@@ -2,10 +2,10 @@
   "name": "goit-team-project-01",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OleksiiFedorenko.github.io/goit-team-project-01",
+  "homepage": "https://teti-ruzh.github.io/mimino-website",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-team-project-01/"
+    "build": "parcel build src/*.html --public-url /mimino-website/"
   },
   "repository": {
     "type": "git",
